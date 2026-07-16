@@ -1,2 +1,2 @@
-# Mkay-Trade
+# quantforex-pro
 Trade Backtester
